@@ -1,0 +1,23 @@
+table {
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+}
+
+tr {
+    padding-left: 20px;
+}
+
+td {
+    padding-left: 20px;
+}
+
+.even {
+    background-color: blue;
+    color: black;
+}
+
+.odd {
+    background-color: orange;
+    color: brown;
+}
